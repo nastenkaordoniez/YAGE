@@ -1,0 +1,11 @@
+<!DOCTYPE html> <html lang="es"> <head> <meta charset="UTF-8"> <title>Yagué Café + Bar en Mindo, Ecuador</title> </head> <body bgcolor="#E7D0A6" style="text-align:center; font-family: Arial, sans-serif;"> 
+         <div align="left"> 
+         <img src="https://drive.google.com/file/d/1SO91sQYaN2BooZzoiQ1QYlw9HlxVTsAr/view?usp=sharing" width="20%" height="20%"</div> <br>  
+ <div align="left"> 
+         <img src="https://drive.google.com/file/d/1GTEkox4vzFutZzAwqe4ZP8lsv3gAeh5r/view?usp=share_link" width="20%" height="20%"</div>
+                 <div align="left"> 
+         <img src="https://drive.google.com/file/d/1tHCFI_0vIZalMg7TZfhYJqvxxeRSe6fR/view?usp=share_link" width="20%" height="20%"</div>
+                         <br><br> 
+         <p align="left">RESERVACIONES: <a href="https://wa.me/593960607090?text=¡Hola!%20Necesito%20reservar%20una%20mesa." 
+           style="text-decoration:none; color:black;">(+593)960607090</a></p>
+         <p align="left">Yagué Café + Bar<br>Vicente Aguirre 069 y Antonio José de Sucre<br>Mindo, Ecuador </p> </body> </html>
