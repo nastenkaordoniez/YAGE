@@ -1,6 +1,7 @@
-<!DOCTYPE html> <html lang="es"> <head> <meta charset="UTF-8"> <title>Yagué Café + Bar en Mindo, Ecuador</title> </head> <body bgcolor="#E7D0A6" style="text-align:center; font-family: Arial, sans-serif;"> 
+<!DOCTYPE html> <html lang="es"><body bgcolor="#E7D0A6" style="text-align:center; font-family: Arial, sans-serif;">
          <div align="left"> 
-         <a href='https://postimg.cc/HJt2sTnG' target='_blank'><img src='https://i.postimg.cc/FKMnpRQK/PROMO-MICHELADA.jpg' border='0' alt='PROMO-MICHELADA'></a></div> <br>  
+         </div> <br>  
+ <div align="left"><a href="https://postimg.cc/HJt2sTnG" target="_blank"><img src="https://i.postimg.cc/FKMnpRQK/PROMO_MICHELADA.jpg" alt="PROMO_MICHELADA"></a></div> <br> 
  <div align="left"> 
          <a href="https://postimg.cc/f3vKTMLG" target="_blank"><img src="https://i.postimg.cc/xdwF5CS1/PROMO_ARTESANALES.jpg" alt="PROMO_ARTESANALES"></a></div> 
  <div align="left"> 
